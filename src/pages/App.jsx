@@ -57,7 +57,7 @@ function Layout({ extraComponent = null }) {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/danna-portofolio">
       <Navbar />
       <Routes>
         <Route path="/" element={<Layout />} />
