@@ -1,8 +1,36 @@
-# React + Vite
+# 💼 Danna's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+🌐 **Live Website**: [https://dannaisdev.github.io/danna-portofolio](https://dannaisdev.github.io/danna-portofolio)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ✨ Features
+
+- 🎯 Responsive layout for mobile & desktop
+- 📁 Projects showcase section
+- 📬 Contact form (optional)
+- ⚡ Fast load time with Vite
+- 🎨 Styled with Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech           | Description                     |
+|----------------|---------------------------------|
+| React          | JavaScript library for UI       |
+| Vite           | Frontend build tool             |
+| Tailwind CSS   | Utility-first CSS framework     |
+| GitHub Pages   | Hosting the static website      |
+
+---
+
+## 📦 Getting Started (for developers)
+
+### 1. Clone this repo
+
+```bash
+git clone https://github.com/dannaisdev/danna-portofolio.git
+cd danna-portofolio
